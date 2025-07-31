@@ -2,6 +2,7 @@
 
 > An AR mobile application featuring a 3D model of Deadpool performing Mixamo animations.  
 > Upon launch, the character automatically appears in the environment and starts dancing.
+> ![Deadpool](Docs/Imagendeadpool.png)
 
 ---
 
@@ -15,8 +16,7 @@
 
 ## Screenshots / GIFs 
 ![Deadpool AR](Docs/deadpool.gif)
-
-> **Tip:** Store images or GIFs inside a `Docs` folder in your repo and reference them here.
+![Deadpool](Docs/Imagendeadpool.png)
 
 ---
 

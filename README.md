@@ -14,9 +14,7 @@
 ---
 
 ## Screenshots / GIFs 
-*(Replace with your own image or GIF)*  
-Example:  
-![Deadpool AR](Docs/deadpool_ar.gif)
+![Deadpool AR](Docs/deadpool.gif)
 
 > **Tip:** Store images or GIFs inside a `Docs` folder in your repo and reference them here.
 

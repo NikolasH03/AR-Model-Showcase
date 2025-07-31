@@ -2,7 +2,7 @@
 
 > An AR mobile application featuring a 3D model of Deadpool performing Mixamo animations.  
 > Upon launch, the character automatically appears in the environment and starts dancing.
-> ![Deadpool](Docs/Imagendeadpool.png)
+> ![Deadpool](Docs/ImagenDeadpool.png)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Screenshots / GIFs 
 ![Deadpool AR](Docs/deadpool.gif)
-![Deadpool](Docs/Imagendeadpool.png)
+![Deadpool](Docs/ImagenDeadpool.png)
 
 ---
 
@@ -26,7 +26,7 @@
 - Android 7.0 or newer.
 
 ### Installation
-1. Download the latest [release](../../releases).
+1. Download the latest [release](https://github.com/NikolasH03/AR-Model-Showcase/releases/tag/v1.0)
 2. Install the `.apk` on your device.
 3. Open the app and point the camera at a flat surface.
 4. Deadpool will automatically appear and start its dance animation.

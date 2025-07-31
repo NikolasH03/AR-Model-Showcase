@@ -129,27 +129,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 2be1cb09e9b93a140835147aece534c7, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.1879
+      value: 5.9163003
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2be1cb09e9b93a140835147aece534c7, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.1879
+      value: 5.9163003
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2be1cb09e9b93a140835147aece534c7, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.1879
+      value: 5.9163003
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2be1cb09e9b93a140835147aece534c7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.0010115
+      value: -0.0013641
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2be1cb09e9b93a140835147aece534c7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.451
+      value: -0.09
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2be1cb09e9b93a140835147aece534c7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.37
+      value: 3.2635
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2be1cb09e9b93a140835147aece534c7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -760,7 +760,7 @@ MonoBehaviour:
   m_Camera: {fileID: 791823438}
   m_OriginBaseGameObject: {fileID: 1115260468}
   m_CameraFloorOffsetObject: {fileID: 1077291666}
-  m_RequestedTrackingOriginMode: 0
+  m_RequestedTrackingOriginMode: 2
   m_CameraYOffset: 1.1176
 --- !u!4 &1115260470
 Transform:

@@ -1,11 +1,11 @@
-# AR Model Showcase 🕶️
+# AR Model Showcase 
 
 > An AR mobile application featuring a 3D model of Deadpool performing Mixamo animations.  
 > Upon launch, the character automatically appears in the environment and starts dancing.
 
 ---
 
-## Features ✨
+## Features
 - Custom 3D model of **Deadpool**.
 - **Mixamo** animation integration for automatic character movement.
 - Built with **ARCore** for real-world environment tracking.
@@ -13,7 +13,7 @@
 
 ---
 
-## Screenshots / GIFs 📷
+## Screenshots / GIFs 
 *(Replace with your own image or GIF)*  
 Example:  
 ![Deadpool AR](Docs/deadpool_ar.gif)
@@ -22,7 +22,7 @@ Example:
 
 ---
 
-## How to Use 📲
+## How to Use 
 ### Requirements
 - ARCore-supported Android device.
 - Android 7.0 or newer.
@@ -35,18 +35,18 @@ Example:
 
 ---
 
-## Project Status 🚧
+## Project Status 
 **Prototype completed**  
 This project was created for learning purposes and to demonstrate 3D model and animation integration in AR.
 
 ---
 
-## Credits 👥
+## Credits 
 - **Nicolás Hurtado** – 3D modeling, AR integration, programming.
 
 ---
 
-## License 📄
+## License 
 This project is published for portfolio purposes only.  
 The code and assets are not licensed for commercial use.
 
